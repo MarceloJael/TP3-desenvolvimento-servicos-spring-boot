@@ -1,2 +1,6 @@
-# TP3-desenvolvimento-servicos-spring-boot
-TP3 de Desenvolvimento de Serviços com Spring Boot da Faculdade INFNET do curso de Engenharia de Software
+# TESTE DE PERFORMANCE 3
+
+*Engenharia de software*  
+*Desenvolvimento de Serviços com Spring Boot*
+
+## O ARQUIVO 'Collection-TP3.json' É UMA COLLECTION PRA SER USADA NO POSTMAN
