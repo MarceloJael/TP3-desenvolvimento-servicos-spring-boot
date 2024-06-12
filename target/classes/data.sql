@@ -1,0 +1,3 @@
+INSERT INTO aluno (nome) VALUES ('Marcelo Jael'), ('Ricardo Frohlich'), ('Armênio Cardoso'), ('Leonardo Silva da Gloria');
+INSERT INTO curso (nome) VALUES ('Desenvolvimento de Serviços com Spring Boot'), ('Design Patterns e Domain-Driven Design (DDD) com Java'), ('Projeto de Bloco: Engenharia de Softwares Escaláveis');
+INSERT INTO aluno_curso (aluno_id, curso_id) VALUES (1, 1), (1, 2), (1, 3), (2, 1), (3, 2), (4, 3);
