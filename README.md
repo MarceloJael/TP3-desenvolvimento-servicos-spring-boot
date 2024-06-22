@@ -1,6 +1,6 @@
-# TESTE DE PERFORMANCE 3
+# Assessment
 
 *Engenharia de software*  
 *Desenvolvimento de Serviços com Spring Boot*
 
-## O ARQUIVO 'Collection-TP3.json' É UMA COLLECTION PRA SER USADA NO POSTMAN
+## O ARQUIVO 'AT_collection.json' É UMA COLLECTION PRA SER USADA NO POSTMAN
